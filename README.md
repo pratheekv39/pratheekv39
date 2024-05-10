@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pratheekv39
 - 👀 I’m interested in the world of application development
 - 🌱 I’m currently learning Kotlin and using it to build Native android applications  
-- 💞️ I’m looking to collaborate on open source android projects built using Kotlin
+- 💞️ I’m looking to collaborate on open source android projects built using Kotlin.
 - 📫 How to reach me:
 -       Instagram = pratheekv39_
 -       Telegram  = Ggproboi
