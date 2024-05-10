@@ -6,7 +6,7 @@
 -       Instagram = pratheekv39_
 -       Telegram  = Ggproboi
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am Batman 🦇
+- ⚡ Fun fact: I am Batman 🦇.
 
 <!---
 pratheekv39/pratheekv39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
