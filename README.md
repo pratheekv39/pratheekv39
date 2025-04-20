@@ -1,7 +1,7 @@
 # 💫 About Me:
 <img align="right" alt="Waltuh" width="400" src="https://media1.tenor.com/m/L7FjYL2mkw8AAAAd/breaking-bad-let-me-cook.gif">
 - 👋 Hi, I’m @pratheekv39<br>
-- 👀 I’m interested in the world of application development<br>- 🌱 I’m currently learning Kotlin and using it to build Native android applications  <br>- 💞️ I’m looking to collaborate on open source android projects built using Kotlin.<br>-🥇 Ranked #19 out of 70000 participants in GSSoC '24 Extd.<br>- 📫 How to reach me:<br>-       Instagram = pratheekv39_<br>-       Telegram  = Ggproboi<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I am Batman 🦇
+- 👀 I’m interested in the world of application development<br>- 🌱 I’m currently learning Kotlin and using it to build Native android applications  <br>- 💞️ I’m looking to collaborate on open source projects built using React,Kotlin.<br>-🥇 Ranked #19 out of 70000 participants in GSSoC '24 Extd.<br>- 📫 How to reach me:<br>-       Instagram = pratheekv39_<br>-       Telegram  = Ggproboi<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I am Batman 🦇
 
 
 ## 🌐 Socials:
